@@ -16,9 +16,8 @@ Given that an individual would like to use a daily planner to create a schedule.
 
 ### Mock-Up
 
-The following animation and screenshot demonstrates the application functionality:
+The following animation demonstrates the applications functionality:
 
-![screenshot of application](./ScreenshotOfApplication.png)
 ![gif demonstration of application](./Demo_of_Work_Day_Planner.gif)
 
 ## Table of Contents
