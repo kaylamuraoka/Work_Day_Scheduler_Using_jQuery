@@ -35,7 +35,7 @@ To install this project locally clone this [**project repository**](https://gith
 
 ## Usage
 
-This simple calendar application can be viewed at: [**this link**] (https://kaylamuraoka.github.io/Work_Day_Scheduler_Using_jQuery/).
+This simple calendar application can be viewed at: [**this link**](https://kaylamuraoka.github.io/Work_Day_Scheduler_Using_jQuery/).
 
 ## Credits
 
