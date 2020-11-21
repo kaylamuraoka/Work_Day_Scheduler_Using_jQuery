@@ -21,6 +21,9 @@ The following animation demonstrates the applications functionality:
 
 ![gif demonstration of application](./assets/images/Demo_of_Work_Day_Planner.gif)
 
+This web application is responsive, meaning that the layout and content responds and adapts based on the size of screen in which it is presented on. See Example Below:
+![responsive views of application](./assets/images/responsiveViews.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
