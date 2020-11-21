@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Employees oftentimes have very busy schdules and utilize a daily planner in order to manage their time effectively.
+This is a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Employees oftentimes have very busy schdules and utilize a daily planner in order to manage their time effectively. This application uses the Moment.js 2.29.1 library to parse, validate, manipulate,
+and display dates and times in JavaScript.
 
 ### How it Works
 
@@ -29,8 +30,9 @@ The following animation demonstrates the applications functionality:
 
 ## Installation
 
-You'll need to use the [**Moment.js**](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
-To install this project locally clone this [**project repository**](https://github.com/kaylamuraoka/Work_Day_Scheduler_Using_jQuery) to your local terminal and modify the code to your liking.
+You'll need to use the [**Moment.js**](https://momentjs.com/) library to parse, validate, manipulate, and display dates and times in JavaScript. Be sure to read the documentation carefully and concentrate on using [**Moment.js in the browser**](https://momentjs.com/docs/#/use-it/browser/).
+
+To install this project locally clone this [**project repository**](https://github.com/kaylamuraoka/Work_Day_Scheduler_Using_jQuery) to create a local copy on your computer and sync between the two locations. You may then modify the code to your liking. For steps on how to clone a repository using the command line, read this section of the GitHub Docs [**about cloning a repository**](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#about-cloning-a-repository).
 
 ## Usage
 
